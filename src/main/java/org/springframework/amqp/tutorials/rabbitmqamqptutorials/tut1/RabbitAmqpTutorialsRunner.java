@@ -1,4 +1,4 @@
-package org.springframework.amqp.tutorials.rabbitmqamqptutorials;
+package org.springframework.amqp.tutorials.rabbitmqamqptutorials.tut1;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
